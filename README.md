@@ -1,4 +1,6 @@
 **Single-Cell Medical Genomics Laboratory, Korea Advanced Institute of Science and Technology** 랩원들에게 유용한 정보를 제공하는 블로그 입니다.
+asdfasdf
+asdfasdf
 
 # E18-1
 **1. 프린터 설치 (맥북 기준)**
@@ -6,7 +8,7 @@
 별도의 드라이버 설치 필요없이 IP만 입력해서 사용 가능함.(스마트폰에서도 IP만 입력해서 바로 출력 가능함)
 
 # Utility & Hardware
-**1. 맥북을 써야 하는 이유**\n
+**1. 맥북을 써야 하는 이유**
 BI랩에서는 리눅스를 많이 사용하는데, 맥북이 리눅스환경을 돌리기에 최적화 되어있어서 많이 사용함.
 필자는 Scrivener때문에 맥북을 처음 사용했는데, 현재 맥북을 사용하는 이유는 2번에 적은 앱들로 맥북이 윈도우보다 훨씬 편해서임.
 https://www.youtube.com/watch?v=NLFTVvi2PVs&ab_channel=%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9CTECH%26VLOG
