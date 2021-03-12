@@ -1,6 +1,4 @@
 **Single-Cell Medical Genomics Laboratory, Korea Advanced Institute of Science and Technology** 랩원들에게 유용한 정보를 제공하는 블로그 입니다.
-asdfasdf
-asdfasdf
 
 # E18-1
 **1. 프린터 설치 (맥북 기준)**
