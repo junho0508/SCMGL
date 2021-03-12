@@ -7,11 +7,14 @@
 
 # Utility & Hardware
 **1. 맥북을 써야 하는 이유**
+
 BI랩에서는 리눅스를 많이 사용하는데, 맥북이 리눅스환경을 돌리기에 최적화 되어있어서 많이 사용함.
 
 필자는 Scrivener때문에 맥북을 처음 사용했는데, 현재 맥북을 사용하는 이유는 2번에 적은 앱들로 맥북이 윈도우보다 훨씬 편해서임.
-  https://www.youtube.com/watch?v=NLFTVvi2PVs&ab_channel=%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9CTECH%26VLOG
-  https://www.youtube.com/watch?v=Fvrn9LLNbyw&ab_channel=%EC%A3%BC%EC%97%B0ZUYONI
+
+https://www.youtube.com/watch?v=NLFTVvi2PVs&ab_channel=%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9CTECH%26VLOG
+
+https://www.youtube.com/watch?v=Fvrn9LLNbyw&ab_channel=%EC%A3%BC%EC%97%B0ZUYONI
 
 **2. 맥을 맥답게 해주는 정말 유용한 프로그램 소개 (내가 맥북을 사용하는 이유)**
   Alfred: spotlight와 유사한 앱. 키보드로 Alfred를 키면 맥북의 모든 기능(전원 끔/절전/앱 실행 등등)을 손쉽게 사용할 수 있음. 모든 파일 검색도 가능하며 파일 안 내용까지 검색할 수 있는 아주 강력한 tool. Alfred없는 맥은 상상할 수 없을 정도.
